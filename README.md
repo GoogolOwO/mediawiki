@@ -1,2 +1,1 @@
-# mediawiki
-我的MediaWiki相关资源
+本存储库是MediaWiki的存储库，存储的是相关资源。
